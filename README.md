@@ -1,6 +1,6 @@
 # Regys-AC
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![Version](https://img.shields.io/badge/version-1.0.1-blue.svg)
 ![License](https://img.shields.io/badge/license-GPL--3.0-green.svg)
 
 ## 🎮 An Autoclicker for Idle Games with Sublooping Functionality
